@@ -7,7 +7,7 @@
 .main {
   width: 75%;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #020230),
-    url("/Quiz_app/src/assets/bg.jpg") center no-repeat;
+    url("src/assets/bg.jpg") center no-repeat;
   display: flex;
   flex-direction: column;
 }
