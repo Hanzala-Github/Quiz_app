@@ -8,6 +8,9 @@
   width: 75%;
   background: linear-gradient(to bottom, rgba(0, 0, 0, 0), #020230),
     url("src/assets/bg.jpg") center no-repeat;
+  background-image: url("src/assets/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
   display: flex;
   flex-direction: column;
 }
